@@ -29,9 +29,6 @@ python project_gutenberg.py
 
 https://www.youtube.com/watch?v=qnyPuhuLUGQ
 
-## 示範影片
-
-[Project Gutenberg 中文書籍爬取 - 示範影片](https://www.youtube.com/watch?v=qnyPuhuLUGQ)
 
 ## 補充說明
 
